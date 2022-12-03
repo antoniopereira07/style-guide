@@ -7,7 +7,6 @@ function App() {
   return (
     <div className="App">
       <Dashboard title="Meu Painel de Controle" />
-      <Button />
     </div>
   );
 }
